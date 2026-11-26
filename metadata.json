@@ -1,0 +1,6 @@
+{
+  "name": "NexusVPN Pro - Enterprise VPN Server & Network Hub",
+  "description": "Comprehensive global VPN server management, protocol configuration generator, live connection simulator, bandwidth analytics, and AI network optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
